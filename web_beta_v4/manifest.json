@@ -1,0 +1,10 @@
+
+{
+  "name":"Lumina Trails (Beta)",
+  "short_name":"Lumina",
+  "start_url":".",
+  "display":"standalone",
+  "background_color":"#08121a",
+  "theme_color":"#0b1a24",
+  "icons":[{"src":"assets/player_skin_default.png","sizes":"96x96","type":"image/png"}]
+}

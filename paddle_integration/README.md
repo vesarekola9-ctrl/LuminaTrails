@@ -1,0 +1,1 @@
+Paddle demo server. Fill .env and run `node server.js`. (Demo placeholder)
