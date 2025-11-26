@@ -1,1 +1,1 @@
-console.log('Lumina Trails Web Test');
+const ctx=document.getElementById('game').getContext('2d');ctx.font='20px Arial';ctx.fillStyle='white';ctx.fillText('Lumina Trails Web Build Ready!',50,50);
